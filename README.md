@@ -1,6 +1,3 @@
-# Java
-java explanation
-
 # 목차
 [1. 자바](#1-자바)  
 [2. 변수](#2-변수)  
@@ -21,6 +18,7 @@ java explanation
 
 
 # 1. 자바
+[자바 특징](https://tedstudy.tistory.com/49)
 # 2. 변수
 # 3. 연산자
 # 4. 조건문, 반복문
