@@ -22,6 +22,7 @@
 # 2. 변수
 [변수 기본](https://tedstudy.tistory.com/50)
 # 3. 연산자
+[연산자 기본](https://tedstudy.tistory.com/51)
 # 4. 조건문, 반복문
 # 5. 배열
 # 6. 객체지향
