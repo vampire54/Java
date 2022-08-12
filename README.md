@@ -20,6 +20,7 @@
 # 1. 자바
 [자바 특징](https://tedstudy.tistory.com/49)
 # 2. 변수
+[변수 기본](https://tedstudy.tistory.com/50)
 # 3. 연산자
 # 4. 조건문, 반복문
 # 5. 배열
