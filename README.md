@@ -26,7 +26,7 @@
 # 4. 조건문, 반복문
 [조건문, 반복문 기본](https://tedstudy.tistory.com/56)
 # 5. 배열
-[배열 기본]()
+[배열 기본](https://tedstudy.tistory.com/57)
 # 6. 객체지향
 # 7. 객체지향 -2
 # 8. 예외처리
